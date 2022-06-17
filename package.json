@@ -1,0 +1,24 @@
+{
+  "name": "nika-shop",
+  "version": "1.0.0",
+  "description": "nika-shop build nodejs expressjs mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/truongnhat149/nika-shop.git"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "mongodb"
+  ],
+  "author": "truongnhat149",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/truongnhat149/nika-shop/issues"
+  },
+  "homepage": "https://github.com/truongnhat149/nika-shop#readme"
+}
